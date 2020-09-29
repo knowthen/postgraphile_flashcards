@@ -13,6 +13,7 @@
     "@graphile-contrib/pg-simplify-inflector": "^6.0.0",
     "db-migrate": "^0.11.11",
     "db-migrate-pg": "^1.2.2",
-    "postgraphile": "^4.9.0"
+    "postgraphile": "^4.9.0",
+    "postgraphile-plugin-connection-filter": "^2.0.0"
   }
 }
