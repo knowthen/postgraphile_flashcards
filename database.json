@@ -1,0 +1,7 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "learn_dev"
+  }
+} 
